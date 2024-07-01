@@ -1,1 +1,1 @@
-# Spotify-Web-Player-Clone
+# Spotify Web Player Clone
