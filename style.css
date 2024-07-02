@@ -160,7 +160,7 @@ a {
     margin-right: 2rem;
 }
 
-img:hover {
+.img:hover {
     opacity: 0.7;
 }
 
